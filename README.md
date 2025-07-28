@@ -1,5 +1,3 @@
----
-
 # 🥗 Calorie Counter
 
 A simple, interactive web-based calorie tracking tool that helps users monitor their daily food intake, exercise, and calorie budget in real time.
@@ -91,6 +89,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## ✍️ Author
 
 **Oluwatobiloba Alomaja**
-Feel free to connect with me on [GitHub](https://github.com)
-
----
